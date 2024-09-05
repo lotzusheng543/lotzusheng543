@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning mechanical engineer year2
 - 💞️ I’m looking to collaborate with whi want to learn coding
 - 📫 How to reach me : lotzusheng@gmail.com / tsl1g22@soton.ac.uk
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: 羅釨升
+- ⚡ Fun fact: not yet found
 
 <!---
 lotzusheng543/lotzusheng543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
