@@ -6,8 +6,8 @@
 - 😄 Pronouns: 羅釨升
 - ⚡ Fun fact: not yet found
 
+![82296227_2799368603417667_6119886981536153600_n](https://github.com/user-attachments/assets/2200616a-e236-45db-9add-40bf2cdb9903)
 
-![456960218_2370995206582843_4294253715167778721_n](https://github.com/user-attachments/assets/1b3ebd53-08d4-4f1d-b55b-8f1f91c1fb1b)
 
 
 
