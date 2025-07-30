@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m @lotzusheng543
+# 👋 Hi there! I’m LO TZU SHENG 
 
 Welcome to my GitHub! I'm a curious and hands-on **Mechanical Engineering Year 3** student currently studying at the **University of Southampton Malaysia**.
 
@@ -37,7 +37,8 @@ Welcome to my GitHub! I'm a curious and hands-on **Mechanical Engineering Year 3
 
 - 📧 Email (personal): lotzusheng@gmail.com  
 - 📧 Email (academic): tsl1g22@soton.ac.uk  
-- 💼 LinkedIn (optional): Lo Tzu sheng
+- 💼 LinkedIn (working): 
+
 
 ---
 
